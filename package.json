@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon ./server.js"
+  },
+  "type": "module",
+  "name": "parcialtp2_21b_oxinalde_juan_manuel",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Juan Manuel Oxinalde",
+  "license": "MIT",
+  "description": ""
+}
